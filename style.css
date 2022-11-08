@@ -1,0 +1,7 @@
+.main {
+  background-image: url(image.jpg);
+}
+.center123 {
+  display: flex;
+  justify-content: center;
+}
